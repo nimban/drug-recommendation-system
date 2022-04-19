@@ -1,0 +1,11 @@
+{
+  "mimic_base_path": "data/mimic-iv-1.0/hosp",
+  "procedure_codes_file" : "procedures_icd.csv",
+  "med_codes_file" : "prescriptions.csv",
+  "diagnosis_codes_file" : "diagnoses_icd.csv",
+  "code_dict_path": "data/code_dict.pickle",
+  "pmi_matrix_path": "data/pmi_matrix.pickle",
+  "admissions_dict_path": "data/admissions_dict.pickle",
+  "update_pickle_files": true,
+  "use_only_cardiac_codes": false
+}
